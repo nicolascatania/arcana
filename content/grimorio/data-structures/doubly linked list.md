@@ -5,7 +5,6 @@ tags:
 alias:
   - lista doble
   - doubly linked list
-  - DLL
 ---
 ## 1. Qué es y cómo funciona
 
