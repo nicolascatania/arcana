@@ -22,9 +22,7 @@ Cada celda de la mazmorra contiene uno de los siguientes valores:
 
 Calcular la **mínima vida inicial** necesaria para que el caballero llegue hasta la princesa con vida.
 
-**Enlace del problema:**
-
-https://leetcode.com/problems/dungeon-game/
+[**Enlace del problema:** ](https://leetcode.com/problems/dungeon-game/)
 
 ---
 
