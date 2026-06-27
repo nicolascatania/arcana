@@ -90,7 +90,6 @@ Derecha → Derecha → Abajo → Abajo
 ---
 
 ## Soluciones implementadas
-
-* `fuerza-bruta.md`
-* `branch-and-bound.md`
-* `programacion-dinamica.md`
+* ![[fuerza-bruta.md]]
+* ![[branch-and-bound.md]]
+* ![[programacion-dinamica.md]]
